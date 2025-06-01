@@ -1,4 +1,4 @@
-# 📦 IoT Anomaly Detection – Python Program
+# IoT Anomaly Detection – Python Program
 
 ## 🛠️ Alati i biblioteke
 - **Scapy** – za čitanje .pcap fajlova i dekodovanje paketa
